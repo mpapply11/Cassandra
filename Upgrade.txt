@@ -1,0 +1,7 @@
+The below experience based on my DataStax 4.6.13 upgrade to 4.8.11
+
+  Consideration:
+     Snapshot and Backup:
+     Disk space:
+     read repair:
+     upgradesstable
